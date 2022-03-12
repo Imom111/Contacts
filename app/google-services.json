@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739581319916",
+    "project_id": "contacts-f466e",
+    "storage_bucket": "contacts-f466e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739581319916:android:a2f05dfb99285a5ec5e3c9",
+        "android_client_info": {
+          "package_name": "edu.utl.dsm502.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739581319916-83f54qmahta8opk5fnkk3f9ncoegtec8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXleQzEbtWdu9E_h7KTE2x5hTGgnbU26o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739581319916-83f54qmahta8opk5fnkk3f9ncoegtec8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
